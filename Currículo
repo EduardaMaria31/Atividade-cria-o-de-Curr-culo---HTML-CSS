@@ -1,0 +1,94 @@
+<!-- Criação de um currículo no HTML/CSS -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="icone" href="logo uninassau.jpeg">
+    <title>Currículo</title>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="Currículo">
+            <img src="Imagem do WhatsApp de 2025-08-27 à(s) 17.19.45_b761dbbb.jpg" width="150" height="200" style="float: left; margin-right: 10px ;" >
+        </div>
+        <div>
+            <h1>Maria Eduarda da Conceição Souza</h1>
+
+            <p>Data de Nascimento: 04/10/2006 - 18 anos</p>
+            <p>Endereço: Jaguaribe, Paulista - PE</p>
+            <br><br><br><br>
+
+            <h3>Contato</h3>
+            <img src="logo whatsapp.jpg" alt="Foto" width="20" style="float:left; margin-right:10px;">
+            <p>Telefone:(81) 99192-8170</p>
+            <img src="logo gmail.png" alt="Foto" width="20" style="float:left; margin-right:10px;">
+            <p>E-mail: eduardamaria.wm31@gmail.com</p>
+            
+            <h2>Formação Acadêmica</h2>
+            <ul>
+                <li>Ensino médio completo - ETE Pastor Isaac Martins Rodrigues</li>
+                <li>Graduada em Redes de Computadores - Técnico - ETE Pastor Isaac Martins Rodrigues</li>
+                <li>Cursando Análise e Desenvolvimento - Técnologo - Uninassau</li>
+            </ul>
+
+            <h2>Experiência Profissional</h2>
+            <table border="5">
+                <thead>
+                    <tr>
+                        <th>Empresa</th>
+                        <th>Cargo</th>
+                        <th>Período</th>
+                        <th>Principais Atividades</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Adonai Estampas</td>
+                        <td>Auxliar de Escritório</td>
+                        <td>15/02/2025 - 14/07/2025</td>
+                        <td>Atendimento telefônico, recepção de clientes e fornecedores;<br>
+                        Organização e arquivamento de documentos físicos e digitais;<br> Elaboração e envio de
+                        relatórios, planilhas e correspondências;<br>Suporte administrativo a setores como financeiro;<br>
+                        Lançamentos em sistemas internos e atualização de cadastros</td>
+                    </tr>
+                </tbody>
+            </table>
+        
+            <br>
+            <h2>Minhas redes Sociais</h2>
+            <a href="www.linkedin.com/in/maria-eduarda-conceição-souza-1b9366352" target="_blank">
+                <img src="logo Linkedin.png" alt="linkedin" width="30"> &nbsp; Meu Linkedin
+            </a><br>
+            <a href="https://www.instagram.com/maria_eduardaconc?igsh=ZGcyeGk2bG14YWRl&utm_source=qr" target="_blank">
+                <img src="logo instagram.webp" alt="instagram" width="30"> &nbsp; Meu Instagram
+            </a>
+
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+</body>
+</html>
